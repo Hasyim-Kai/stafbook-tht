@@ -1,10 +1,9 @@
 # INSTALLATION
 
-0. run `npm i`
-1. run `npm run build`
-2. Ensure BE is running
+1. run `npm i`
+2. run `npm run build`
 3. run `npm run preview`
-4. visit `http://localhost:4173/auth/signin`
+4. visit `http://localhost:4173/product`
 
 
 #### Link route
